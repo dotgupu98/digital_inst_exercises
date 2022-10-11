@@ -1,0 +1,9 @@
+../Src/main.c:17:6:ADC_setup_pA	48	static
+../Src/main.c:44:6:ADC_Calibrate	24	static
+../Src/main.c:65:10:ADC_measure_PA	24	static
+../Src/main.c:74:6:LCD_data_print	8	static
+../Src/main.c:83:6:timer16_pwm_init	40	static
+../Src/main.c:110:6:GPIO_set_AF1_PA6	16	static
+../Src/main.c:129:6:timer2_pwm_init	40	static
+../Src/main.c:155:6:GPIO_set_AF1_PB11	16	static
+../Src/main.c:170:5:main	32	static

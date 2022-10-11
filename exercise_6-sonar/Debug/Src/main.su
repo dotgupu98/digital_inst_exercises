@@ -1,0 +1,10 @@
+/home/tibi/Documents/DTU/Digital_Instrumentation/exercise_6-sonar/cmsis/core_cm4.h:1071:22:NVIC_EnableIRQ	16	static
+/home/tibi/Documents/DTU/Digital_Instrumentation/exercise_6-sonar/cmsis/core_cm4.h:1156:22:NVIC_SetPriority	16	static
+../Src/main.c:17:6:initTrigger	16	static
+../Src/main.c:34:6:initInterrupt	24	static
+../Src/main.c:54:6:initTimer	16	static
+../Src/main.c:90:6:TIM2_IRQHandler	8	static
+../Src/main.c:99:6:showTime	16	static
+../Src/main.c:103:6:EXTI9_5_IRQHandler	8	static
+../Src/main.c:132:8:delay	24	static
+../Src/main.c:117:5:main	16	static
