@@ -1,0 +1,6 @@
+../Src/main.c:11:6:ADC_setup_PA	56	static
+../Src/main.c:45:6:adc_calibrate	16	static
+../Src/main.c:62:10:ADC_measure_PA	24	static
+../Src/main.c:77:6:initTimer	24	static
+../Src/main.c:104:6:TIM2_IRQHandler	8	static
+../Src/main.c:113:5:main	776	static
